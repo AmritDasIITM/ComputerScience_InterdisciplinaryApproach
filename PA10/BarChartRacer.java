@@ -45,8 +45,3 @@ public class BarChartRacer {
 
     }
 }
-
-
-//    String a = "1,b,c,2,a";
-//    String [] arr = a.split(",");
-//    StdOut.println(Arrays.toString(arr));
